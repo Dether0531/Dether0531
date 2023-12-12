@@ -3,22 +3,22 @@
 <h4> Fullstack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 
 
-[![Instagram Badge](https://img.shields.io/badge/-@prajwal.iar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/503Chaos/)](https://instagram.com/503Chaos)
-[![Gmail Badge](https://img.shields.io/badge/-prajwal.iar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:503Chaos@gmail.com)](mailto:503Chaos@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal100/)](https://www.linkedin.com/in/prajwal100/)
-[![Telegram Badge](https://img.shields.io/badge/-@prajwalrai-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Praajwal.iar/ "Contact on Telegram")
+[![Instagram Badge](https://img.shields.io/badge/-@503Chaos-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/503Chaos/)](https://instagram.com/503Chaos)
+[![Gmail Badge](https://img.shields.io/badge/-503Chaos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:503Chaos@gmail.com)](mailto:503Chaos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-503Chaos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/503Chaos/)](https://www.linkedin.com/in/503Chaos/)
+[![Telegram Badge](https://img.shields.io/badge/-@503Chaos-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/503Chaos/ "Contact on Telegram")
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/prajwalrai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/503Chaos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [raiprajwal.com](https://raiprajwal.com)
+- My Personal Website :yum: [503Chaos](https://503Chaos)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Swivt Technologies
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Flutter & VueJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Prajwal100&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Dether0531&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal100&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dether0531&hide=TeX&layout=compact)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=prajwal100&color=green)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=green)
 
 ### Languages and Tools
 
