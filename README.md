@@ -14,7 +14,7 @@ Like My Work?
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [503Chaos](https://503Chaos)
+- My Personal Website :yum: [Portfolio](https://dether0531.github.io/lagos.github.io/)
 
 Here are some ideas to get you started:
 
