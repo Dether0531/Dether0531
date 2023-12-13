@@ -1,4 +1,3 @@
-## Hi Friends! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 <h4> Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 
@@ -15,17 +14,6 @@ Like My Work?
 ### You can find my stuff here :leaves:
 
 - My Personal Website :yum: [Portfolio](https://dether0531.github.io/lagos.github.io/)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## ⚡ Technologies
 
@@ -44,24 +32,8 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Dether0531&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dether0531&hide=TeX&layout=compact)
-
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=green)
-/*
-### Languages and Tools
 
-<img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
-<br />
-
-#
-*/
 <div align="center">
 
 ### Made with ❤️ by Dether and Hamima
