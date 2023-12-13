@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-503Chaos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:503Chaos@gmail.com)](mailto:503Chaos@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-503Chaos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/503Chaos/)](https://www.linkedin.com/in/503Chaos/)
 [![Telegram Badge](https://img.shields.io/badge/-@503Chaos-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/503Chaos/ "Contact on Telegram")
+![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=green)
 
 Like My Work?
 
@@ -18,10 +19,6 @@ Like My Work?
 ## ⚡ Technologies
 
 <!--- just --->
-
-![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
-![VueJs](https://img.shields.io/badge/vuejs-2.x-brightgreen.svg?style=flat-square)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -29,10 +26,9 @@ Like My Work?
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=green)
+
 
 <div align="center">
 
