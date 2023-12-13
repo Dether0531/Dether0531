@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dether0531&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=green)
-
+/*
 ### Languages and Tools
 
 <img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <br />
 
 #
-
+*/
 <div align="center">
 
 ### Made with ❤️ by Dether and Hamima
