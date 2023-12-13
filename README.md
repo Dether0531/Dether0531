@@ -1,12 +1,12 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 <h4> Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=green)
+
 
 [![Instagram Badge](https://img.shields.io/badge/-@503Chaos-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/503Chaos/)](https://instagram.com/503Chaos)
 [![Gmail Badge](https://img.shields.io/badge/-503Chaos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:503Chaos@gmail.com)](mailto:503Chaos@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-503Chaos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/503Chaos/)](https://www.linkedin.com/in/503Chaos/)
 [![Telegram Badge](https://img.shields.io/badge/-@503Chaos-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/503Chaos/ "Contact on Telegram")
-
+![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=green)
 
 Like My Work?
 
