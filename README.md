@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
-<h4> Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@503Chaos-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/503Chaos/)](https://instagram.com/503Chaos)
