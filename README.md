@@ -1,9 +1,10 @@
 
 
-[![Instagram Badge](https://img.shields.io/badge/-@h._.a._.m._.d._.i._.e-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/h._.a._.m._.d._.i._.e/)](https://instagram.com/503Chaos)
-[![Gmail Badge](https://img.shields.io/badge/-detherslagos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:detherslagos@gmail.com)](mailto:503Chaos@gmail.com)
+
+[![Instagram Badge](https://img.shields.io/badge/-@h._.a._.m._.d._.i._.e-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/h._.a._.m._.d._.i._.e/)](https://instagram.com/h._.a._.m._.d._.i._.e)
+[![Gmail Badge](https://img.shields.io/badge/-detherslagos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:detherslagos@gmail.com)](mailto:detherslagos@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Dether-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dether/)](https://www.linkedin.com/in/Dether/)
-[![Telegram Badge](https://img.shields.io/badge/-@Hamdie-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/hamdie/ "Message on Facebook")
+[![Telegram Badge](https://img.shields.io/badge/-@Hamdie-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/hamdie/ "Contact on Telegram")
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=green)
 
 Like My Work?
@@ -34,8 +35,8 @@ Like My Work?
 </p>
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  <a href="https://github.com/Dether0531/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Dether0531&&show_icons=true&theme=radical"/>
   </a>
   </p>
 ### Made with ❤️ by Hamdie
