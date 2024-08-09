@@ -36,7 +36,7 @@ Like My Work?
 
 <p align="center" >  
   <a href="https://github.com/Dether0531/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Dether0531&&show_icons=true&theme=radical"/>
+      <img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
   </a>
   </p>
 ### Made with ❤️ by Hamdie
