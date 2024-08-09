@@ -8,8 +8,7 @@
 
 Like My Work?
 
-<a href="https://www.ko-fi.com/hamdie" target="_blank"><img src="https://storage.ko-fi.com/cdn/nav-logo-stroke.png" alt="Donate Me" height="60px" width="217px" ></a>
-
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'V7V1XH79N');kofiwidget2.draw();</script> 
 ### You can find my stuff here :leaves:
 
 - My Personal Website :yum: [Portfolio](https://dether0531.github.io/lagos.github.io/)
@@ -27,10 +26,6 @@ Like My Work?
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'V7V1XH79N');kofiwidget2.draw();</script> 
-<div align="center">
 
 ### Made with ❤️ by Hamdie
 
