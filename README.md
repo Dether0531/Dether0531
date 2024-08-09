@@ -1,9 +1,9 @@
 
 
-[![Instagram Badge](https://img.shields.io/badge/-@503Chaos-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/h._.a._.m._.d._.i._.e/)](https://instagram.com/503Chaos)
-[![Gmail Badge](https://img.shields.io/badge/-503Chaos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:detherslagos@gmail.com)](mailto:503Chaos@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-503Chaos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dether/)](https://www.linkedin.com/in/503Chaos/)
-[![Telegram Badge](https://img.shields.io/badge/-@503Chaos-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/hamdie/ "Contact on Telegram")
+[![Instagram Badge](https://img.shields.io/badge/-@h._.a._.m._.d._.i._.e-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/h._.a._.m._.d._.i._.e/)](https://instagram.com/503Chaos)
+[![Gmail Badge](https://img.shields.io/badge/-detherslagos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:detherslagos@gmail.com)](mailto:503Chaos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Dether-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dether/)](https://www.linkedin.com/in/503Chaos/)
+[![Telegram Badge](https://img.shields.io/badge/-@Hamdie-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/hamdie/ "Contact on Telegram")
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=green)
 
 Like My Work?
