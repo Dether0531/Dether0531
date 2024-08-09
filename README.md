@@ -11,7 +11,7 @@ Like My Work?
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [Portfolio](https://dether0531.github.io/lagos.github.io/)
+- My Personal Website :yum: [Portfolio](https://hamdie-v-xxxi-mmxxiii.github.io/lagos.github.io/)
 
 
 <!--- just --->
@@ -35,8 +35,8 @@ Like My Work?
 </p>
 
 <p align="center" >  
-  <a href="https://github.com/Dether0531/github-readme-stats"> 
-      <img  src="https://github-readme-stats.vercel.app/api?username=Dether0531&&show_icons=true&theme=radical"/>
+  <a href="https://github.com/hamdie-v-xxxi-mmxxiii/github-readme-stats"> 
+      <img  src="https://github-readme-stats.vercel.app/api?username=hamdie-v-xxxi-mmxxiii&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
