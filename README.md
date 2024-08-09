@@ -2,8 +2,8 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-@h._.a._.m._.d._.i._.e-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/h._.a._.m._.d._.i._.e/)](https://instagram.com/503Chaos)
 [![Gmail Badge](https://img.shields.io/badge/-detherslagos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:detherslagos@gmail.com)](mailto:503Chaos@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Dether-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dether/)](https://www.linkedin.com/in/503Chaos/)
-[![Telegram Badge](https://img.shields.io/badge/-@Hamdie-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/hamdie/ "Contact on Telegram")
+[![Linkedin Badge](https://img.shields.io/badge/-Dether-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dether/)](https://www.linkedin.com/in/Dether/)
+[![Telegram Badge](https://img.shields.io/badge/-@Hamdie-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/hamdie/ "Message on Facebook")
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=green)
 
 Like My Work?
@@ -33,7 +33,11 @@ Like My Work?
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/Dether0531/Dether0531/blob/output/github-contribution-grid-snake.svg)
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
 ### Made with ❤️ by Hamdie
 
 </div>
