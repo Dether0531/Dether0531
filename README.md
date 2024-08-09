@@ -12,7 +12,6 @@ Like My Work?
 
 - My Personal Website :yum: [Portfolio](https://dether0531.github.io/lagos.github.io/)
 
-## ⚡ Technologies
 
 <!--- just --->
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
