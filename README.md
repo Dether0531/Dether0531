@@ -33,7 +33,7 @@ Like My Work?
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="45" height="45"/>
 </p>
 
-
+![Snake animation](https://github.com/Dether0531/Dether0531/blob/output/github-contribution-grid-snake.svg)
 ### Made with ❤️ by Hamdie
 
 </div>
