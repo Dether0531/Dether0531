@@ -11,7 +11,7 @@ Like My Work?
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [Portfolio](https://hamdie-v-xxxi-mmxxiii.github.io/lagos.github.io/)
+- My Personal Website :yum: [Portfolio](https://hamdie-v-xxxi-mmxxiii.github.io/hamdie-v-xxxi-mmxxiii.github.io/)
 
 
 <!--- just --->
