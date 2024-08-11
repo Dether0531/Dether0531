@@ -40,6 +40,21 @@ Like My Work?
       <img  src="https://github-readme-stats.vercel.app/api?username=hamdie-v-xxxi-mmxxiii&&show_icons=true&theme=radical"/>
   </a>
   </p>
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://ko-fi.com/Hamdie" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a></div>
+<br />
 
 </div>
 
