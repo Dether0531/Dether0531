@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-detherslagos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:detherslagos@gmail.com)](mailto:detherslagos@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Dether-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dether/)](https://www.linkedin.com/in/Dether/)
 [![Telegram Badge](https://img.shields.io/badge/-@Hamdie-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/hamdie/ "Contact on Telegram")
-![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=crimson)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Dether0531&color=purple)
 
 
 Like My Work?
